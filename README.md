@@ -5,14 +5,14 @@ A **Spam Email Detection** system built using Python and Machine Learning that c
 ---
 
 ## 📂 Project Structure
-
-📁 Spam-Email-detection/
-│
-├── 📄 spam_email_detection.ipynb # Main Jupyter Notebook
-├── 📄 spam.csv # Email dataset
-├── 📄 Spam_Email_Detection_Project_Report.pdf # Report
-├── 📄 README.md # This file
-└── 📄 requirements.txt (optional) # Python dependencies
+    ```bash
+        📁 Spam-Email-detection/
+        │
+        ├── 📄 spam_email_detection.ipynb # Main Jupyter Notebook
+        ├── 📄 spam.csv # Email dataset
+        ├── 📄 Spam_Email_Detection_Project_Report.pdf # Report
+        ├── 📄 README.md # This file
+        └── 📄 requirements.txt (optional) # Python dependencies
 
 
 ---
