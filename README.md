@@ -57,15 +57,15 @@ Spam emails are unsolicited bulk messages that often contain phishing links, mal
 
 ## Install dependencies
 ### Create a virtual environment (optional but recommended):
-python3 -m venv venv
-source venv/bin/activate     # macOS / Linux
-venv\Scripts\activate        # Windows
+    python3 -m venv venv
+    source venv/bin/activate     # macOS / Linux
+    venv\Scripts\activate        # Windows
 
 ### Then install packages:
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### (If requirements.txt is not present, you can install manually:)
-pip install pandas numpy scikit-learn matplotlib seaborn
+    pip install pandas numpy scikit-learn matplotlib seaborn
 
 ---
 
@@ -73,23 +73,23 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ### Open the Jupyter Notebook:
 
-jupyter notebook spam_email_detection.ipynb
+    jupyter notebook spam_email_detection.ipynb
 
 
 ### Follow the notebook cells to run:
-""
-Dataset loading
 
-Text cleaning & preprocessing
+    Dataset loading
 
-Feature extraction
+    Text cleaning & preprocessing
 
-Model building
+    Feature extraction
 
-Evaluation & visualizations
+    Model building
 
-Review classification results and performance metrics.
-""
+    Evaluation & visualizations
+
+    Review classification results and performance metrics.
+
 ---
 
 
