@@ -49,7 +49,7 @@ Spam emails are unsolicited bulk messages that often contain phishing links, mal
 ## 📦 Installation
 
 1. **Clone the repository**
-   ```bash
+   ```
    git clone https://github.com/Mayurroro/Spam-Email-detection.git
    cd Spam-Email-detection
 
