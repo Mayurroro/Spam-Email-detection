@@ -62,10 +62,7 @@ Spam emails are unsolicited bulk messages that often contain phishing links, mal
     source venv/bin/activate     # macOS / Linux
     venv\Scripts\activate        # Windows
 
-### Then install packages:
-    pip install -r requirements.txt
-
-### (If requirements.txt is not present, you can install manually:)
+### you can install manually:
     pip install pandas numpy scikit-learn matplotlib seaborn
 
 ---
