@@ -66,7 +66,7 @@ if st.button("Predict"):
 
 st.markdown("---")
 st.markdown(
-    "🔍 **Model Used:** Logistic Regression / Naive Bayes  \n"
+    "🔍 **Model Used:** Logistic Regression  \n"
     "📊 **Text Processing:** Tokenization, Stopword Removal, Stemming  \n"
     "🛠 **Vectorization:** CountVectorizer / TF-IDF"
 )
