@@ -68,5 +68,5 @@ st.markdown("---")
 st.markdown(
     "🔍 **Model Used:** Logistic Regression  \n"
     "📊 **Text Processing:** Tokenization, Stopword Removal, Stemming  \n"
-    "🛠 **Vectorization:** CountVectorizer / TF-IDF"
+    "🛠 **Vectorization:** CountVectorizer "
 )
