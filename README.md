@@ -12,8 +12,10 @@ A **Spam Email Detection** system built using Python and Machine Learning that c
         ├── 📄 spam.csv # Email dataset
         ├── 📄 Spam_Email_Detection_Project_Report.pdf # Report
         ├── 📄 README.md # This file
-        ├── 📄 model_joblib
-        └── 📄 model_pickel
+        ├── 📄 model.pkl #saving model
+        ├── 📄 vectorizer.pkl #saving TF-IDF vectorization
+        ├── 📄 requirements.txt #requirements for execution
+        └── 📄 app.py #interactive streamlit app
 
 
 ---
